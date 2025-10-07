@@ -2,4 +2,4 @@
 
 \\ Owner's section
 
-\\ colladralater section
+\\ collaborator section
